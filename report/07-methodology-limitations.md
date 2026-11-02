@@ -89,5 +89,6 @@
 ## संबंधित पृष्ठ
 
 - [रिपोर्ट अनुक्रमणिका](00-index.md)
+- [राहु-केतु अक्ष का गहन मिलान](05-rahu-ketu-axis.md)
 - [समेकित आकलन](06-integrated-assessment.md)
 - [मूल स्थितियाँ](../data/jhora-positions.md)
