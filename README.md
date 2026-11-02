@@ -26,16 +26,16 @@
 
 ## रिपोर्ट पढ़ने का क्रम
 
-1. [रिपोर्ट अनुक्रमणिका](report/00-index.md)
-2. [दोनों कुंडलियों का परिचय](report/01-chart-summary.md)
-3. [राशि-कुंडली का मिलान](report/02-rashi-matching.md)
-4. [जैमिनी चरकारक मिलान](report/03-jaimini-charakaraka.md)
-5. [नवांश और कारकांश](report/04-navamsha-karakamsha.md)
-6. [राहु-केतु अक्ष का गहन मिलान](report/05-rahu-ketu-axis.md)
-7. [विशेष लग्न और संवेदनशील बिंदु](report/05-special-points.md)
-8. [समेकित आकलन](report/06-integrated-assessment.md)
-9. [पद्धति और सीमाएँ](report/07-methodology-limitations.md)
-10. [विश्लेषण में प्रयुक्त स्थितियाँ](data/jhora-positions.md)
+- [रिपोर्ट अनुक्रमणिका](report/00-index.md)
+- अध्याय १: [दोनों कुंडलियों का परिचय](report/01-chart-summary.md)
+- अध्याय २: [राशि-कुंडली का मिलान](report/02-rashi-matching.md)
+- अध्याय ३: [जैमिनी चरकारक मिलान](report/03-jaimini-charakaraka.md)
+- अध्याय ४: [नवांश और कारकांश](report/04-navamsha-karakamsha.md)
+- अध्याय ५: [राहु-केतु अक्ष का गहन मिलान](report/05-rahu-ketu-axis.md)
+- अध्याय ६: [विशेष लग्न और संवेदनशील बिंदु](report/06-special-points.md)
+- अध्याय ७: [समेकित आकलन](report/07-integrated-assessment.md)
+- अध्याय ८: [पद्धति और सीमाएँ](report/08-methodology-limitations.md)
+- [विश्लेषण में प्रयुक्त मूल स्थितियाँ](data/jhora-positions.md)
 
 ## महत्वपूर्ण सूचना
 
